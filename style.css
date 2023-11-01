@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    background-color: rgb(255, 255, 179);
+    color: green;
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid darkgreen;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+p, ul {
+    font-size: 20px;
+}
+
+footer {
+    margin: 20px;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    border: 1px solid darkgreen;
+    padding: 5px;
+    border-radius: 10px;
+}
+body{
+    font-family: sans-serif;
+    background: 
+    url("/uploads/2021/01/fish2_0_1610653588.svg") no-repeat 50% 40%,
+    url("/uploads/2021/01/fish1_0_1610653588.svg") no-repeat 70% 90%,
+    url("/uploads/2021/01/coral_0_1610653588.svg") no-repeat 90% 70%
+
+}
+body{
+    background-color:aquamarine;
+}
+.b{
+    background-color: rgb(255, 255, 179);
+    color: green;
+    margin: 10px;
+}
+img src{
+    
+}
